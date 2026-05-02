@@ -1,0 +1,37 @@
+div{
+    height: 50px;
+    width: 250px;
+    background-color: pink;
+    /*border-width: 5px;
+    border-style: solid;
+    border-color: darkred;*/
+    border: 2px solid rgb(244, 44, 127);
+}
+h1{
+    height: 50px;
+    width: 150px;
+    background-color: violet;
+    /*border-width: 7px;
+    border-style: solid;
+    border-color: rgb(248, 3, 101);
+    text-align: center;*/
+    border: 3px dotted rgb(175, 2, 249);
+
+}
+p{
+    height: 200px;
+    width: 250px;
+    background-color: rgb(40, 175, 243);
+    /*border-width: 4px;
+    border-style: double;
+    border-color: rgb(179, 3, 248);*/
+    border: 7px double greenyellow;
+   
+}
+button{
+    /*border-style: dashed;
+    border-color: rgb(7, 6, 6);*/   
+    background-color: rgb(243, 240, 156);
+    border: 3px dashed rgb(21, 255, 0);
+
+}
